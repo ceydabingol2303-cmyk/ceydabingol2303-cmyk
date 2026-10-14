@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Ceyda Bingöl
 
-<!--
-**ceydabingol2303-cmyk/ceydabingol2303-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior System & Network Specialist | Cloud & DevOps Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Systems & Cloud:** Ubuntu Server, Windows Server, Proxmox, VMware, Docker
+- **Networking & Security:** OPNsense, Network Management, Information Security
+- **Database & Tools:** PostgreSQL, SQL Server, phpMyAdmin, Webmin, Git, VS Code
+- **Software Development:** C#, ASP.NET, PHP, JavaScript, HTML/CSS
+
+---
+
+### 🔗 Connect with me
+- 🎥 YouTube: [YouTube Kanalım](https://www.youtube.com/@cydbngl)
+- 💼 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/ceyda-bing%C3%B6l-7b23a9257/?isSelfProfile=true)
